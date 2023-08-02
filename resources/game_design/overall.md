@@ -25,3 +25,13 @@
 6. **Cardinal**: A distinguished member of the clergy, part of the sacred college and involved in the selection of the Pope.
 7. **Papal Legate**: The highest-ranking cardinal appointed with special authority to represent the Pope and govern specific regions on his behalf.
 8. **Pope**: The ultimate rank, representing the supreme leader of the Papal States, holding immense spiritual and political power, and considered the Vicar of Christ on Earth.
+
+## Something Special for Each Faction
+| Faction | Mechanic |
+|---------|----------|
+| Papal States | Special titles, discount on religious buildings.    |
+| Florence     | Art Patronage, can bring more florins and citizens. |
+| Genoa        | Maritime Market, can bring more florins.            |
+| Venetian     |                                                     |
+| Milan        | Something military related.                         |
+| Naples       |                                                     |
