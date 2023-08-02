@@ -1,20 +1,7 @@
-# Basic C project structure
+# The Prince
 
-## Project Structure
-```
-.
-├── Makefile
-├── README.md
-├── main.c
-├── src
-│   ├── problem.c
-│   └── problem.h
-└── tests
-    └── test_problem.c
+In the golden age of the Renaissance, Italy stands at the crossroads of history. It is a time of great cultural flourishing, artistic brilliance, and political intrigue. As rulers of the Italian city-states, you have risen to power amidst a web of alliances and rivalries, where every decision can shape the destiny of your people. Welcome to "The Prince," a strategic simulation game that immerses you in the world of Machiavellian politics and power struggles.
 
-2 directories, 6 files
-```
+Your journey begins with the dawn of the 15th century, a time when the Italian Republics are vying for dominance and supremacy. The Republic of Florence, under the patronage of the illustrious Medici family, thrives as the cultural heart of the region. The Venetian Republic, with its vast maritime empire, seeks to control the trade routes and shape the fortunes of the Mediterranean. The Duchy of Milan aspires to expand its territorial boundaries and military might, while the Kingdom of Naples must navigate the challenges of ruling a powerful monarchy surrounded by ambitious republics. The Republic of Genoa, an old rival of Venice, yearns to regain its former glory. And at the center of it all, the Papal States, with their spiritual influence, seek to sway the balance of power in their favor.
 
-- main.c: Main function
-- src/*.c, *.h: Project files
-- tests/*.c: Unit Tests
+Choose your faction wisely and embark on a journey through the political landscape of Renaissance Italy. As you ascend the ranks, you will encounter formidable rivals, forge alliances, engage in diplomacy, wage wars, and leave a lasting legacy on the pages of history. Step into this world of ambitions and intrigue, where the legacy of Machiavelli beckons you to rise and become "The Prince"—a mastermind of statecraft, shrewd, and resolute.
